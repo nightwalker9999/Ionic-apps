@@ -1,0 +1,7 @@
+{
+  "name": "businesscard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
